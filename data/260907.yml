@@ -5,13 +5,13 @@ about:
   head: 6a9642c
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:25:20Z
+  collectedAt: 2026-09-07T19:10:57Z
 timeline:
   created: 2025-11-10
   lastCommit: 2026-09-03
   lastRelease: 
 popularity:
-  star: 260
+  star: 261
   watcher: 0
   fork: 32
   release: 0
@@ -82,7 +82,7 @@ total:
   commit: 307
 ---
 path: /home/runner/.x-repo/github.com/getsentry/sentry-for-ai
-collectedAt: 2026-09-07T05:25:26Z
+collectedAt: 2026-09-07T19:11:02Z
 loc:
   TypeScript:
     code: 1775
@@ -138,7 +138,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:25:27+00:00
+  collectedAt: 2026-09-07T19:11:03+00:00
   platform:
     darwin/arm64:
       name:  null
