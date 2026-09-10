@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:37:16Z
+  collectedAt: 2026-09-10T23:49:42Z
 timeline:
   created: 2025-11-10
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 263
+  star: 264
   watcher: 0
   fork: 33
   release: 0
@@ -86,7 +86,7 @@ total:
   commit: 309
 ---
 path: /home/runner/.x-repo/github.com/getsentry/sentry-for-ai
-collectedAt: 2026-09-10T17:37:21Z
+collectedAt: 2026-09-10T23:49:46Z
 loc:
   TypeScript:
     code: 1775
