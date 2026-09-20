@@ -4,7 +4,7 @@
 
 Teach your AI coding assistant how to use Sentry - setup, debugging, alerts, and more
 
-![sentry-for-ai](https://repo.x-cmd.io/sentry-for-ai.svg?lang=zh)
+[![x-cmd/install — sentry-for-ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sentry-for-ai.svg?lang=zh)](https://x-cmd.com/install/sentry-for-ai)
 
 ## 安装
 
@@ -35,18 +35,18 @@ x install sentry-for-ai
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 244 · **开放 PR**: 30 · **已关闭 issue**: 38 · **开放 issue**: 17 · **提交数**: 321
+- **发布数**: 0 · **已合并 PR**: 244 · **开放 PR**: 31 · **已关闭 issue**: 38 · **开放 issue**: 17 · **提交数**: 321
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 12 | 4 | 0 | 1 | 16 |
-| last60d | 2026-07-20 | 0 | 39 | 12 | 0 | 4 | 46 |
-| 90d | 2026-06-20 | 0 | 107 | 25 | 1 | 6 | 118 |
-| last180d | 2026-03-22 | 0 | 197 | 30 | 23 | 14 | 207 |
-| 360d | 2025-09-23 | 0 | 244 | 30 | 38 | 15 | 308 |
-| last720d | 2024-09-28 | 0 | 244 | 30 | 38 | 15 | 321 |
+| 30d | 2026-08-21 | 0 | 12 | 4 | 0 | 1 | 13 |
+| last60d | 2026-07-22 | 0 | 35 | 13 | 0 | 4 | 43 |
+| 90d | 2026-06-22 | 0 | 102 | 24 | 1 | 6 | 110 |
+| last180d | 2026-03-24 | 0 | 191 | 31 | 18 | 14 | 199 |
+| 360d | 2025-09-25 | 0 | 244 | 31 | 38 | 15 | 308 |
+| last720d | 2024-09-30 | 0 | 244 | 31 | 38 | 15 | 321 |
 
 ## 改进这些数据
 
@@ -57,4 +57,4 @@ sentry-for-ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:55:49Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:47:48Z._
