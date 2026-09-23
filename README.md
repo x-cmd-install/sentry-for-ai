@@ -4,7 +4,7 @@
 
 Teach your AI coding assistant how to use Sentry - setup, debugging, alerts, and more
 
-[![x-cmd/install — sentry-for-ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sentry-for-ai.svg)](https://x-cmd.com/install/sentry-for-ai)
+[![x-cmd/install — sentry-for-ai Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sentry-for-ai.svg)](https://x-cmd.com/install/sentry-for-ai)
 
 ## Install
 
@@ -31,7 +31,7 @@ Total: **5,310** lines of code across **69** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 265 · **Forks**: 33 · **Open issues**: 55 · **Contributors**: 131
+- **Stars**: 266 · **Forks**: 33 · **Open issues**: 55 · **Contributors**: 131
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **5,310** lines of code across **69** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 13 | 3 | 0 | 1 | 14 |
-| last60d | 2026-07-24 | 0 | 36 | 12 | 0 | 4 | 44 |
-| 90d | 2026-06-24 | 0 | 101 | 23 | 1 | 6 | 111 |
-| last180d | 2026-03-26 | 0 | 192 | 30 | 18 | 14 | 200 |
-| 360d | 2025-09-27 | 0 | 245 | 30 | 38 | 15 | 309 |
-| last720d | 2024-10-02 | 0 | 245 | 30 | 38 | 15 | 322 |
+| 30d | 2026-08-24 | 0 | 13 | 3 | 0 | 1 | 14 |
+| last60d | 2026-07-25 | 0 | 36 | 12 | 0 | 4 | 44 |
+| 90d | 2026-06-25 | 0 | 100 | 23 | 1 | 6 | 111 |
+| last180d | 2026-03-27 | 0 | 190 | 30 | 18 | 14 | 200 |
+| 360d | 2025-09-28 | 0 | 245 | 30 | 38 | 15 | 309 |
+| last720d | 2024-10-03 | 0 | 245 | 30 | 38 | 15 | 322 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sentry-for-ai lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:46:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:04:26Z._
