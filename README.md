@@ -41,12 +41,12 @@ Total: **5,310** lines of code across **69** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 13 | 3 | 0 | 0 | 15 |
-| last60d | 2026-07-27 | 0 | 37 | 11 | 0 | 4 | 45 |
-| 90d | 2026-06-27 | 0 | 99 | 23 | 1 | 6 | 112 |
-| last180d | 2026-03-29 | 0 | 191 | 30 | 18 | 14 | 201 |
-| 360d | 2025-09-30 | 0 | 246 | 30 | 38 | 15 | 310 |
-| last720d | 2024-10-05 | 0 | 246 | 30 | 38 | 15 | 323 |
+| 30d | 2026-08-27 | 0 | 13 | 2 | 0 | 0 | 15 |
+| last60d | 2026-07-28 | 0 | 36 | 11 | 0 | 4 | 45 |
+| 90d | 2026-06-28 | 0 | 99 | 23 | 1 | 6 | 112 |
+| last180d | 2026-03-30 | 0 | 188 | 30 | 17 | 14 | 201 |
+| 360d | 2025-10-01 | 0 | 246 | 30 | 38 | 15 | 310 |
+| last720d | 2024-10-06 | 0 | 246 | 30 | 38 | 15 | 323 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sentry-for-ai lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:42:27Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:38:58Z._
