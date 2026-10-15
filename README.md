@@ -31,22 +31,22 @@ Total: **5,314** lines of code across **69** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 270 · **Forks**: 35 · **Open issues**: 56 · **Contributors**: 132
+- **Stars**: 270 · **Forks**: 36 · **Open issues**: 56 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 251 · **Open PRs**: 35 · **Closed issues**: 38 · **Open issues**: 18 · **Commits**: 331
+- **Releases**: 0 · **Merged PRs**: 251 · **Open PRs**: 38 · **Closed issues**: 38 · **Open issues**: 18 · **Commits**: 332
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 15 | 6 | 0 | 1 | 10 |
-| last60d | 2026-08-15 | 0 | 19 | 9 | 0 | 2 | 26 |
-| 90d | 2026-07-16 | 0 | 46 | 20 | 0 | 5 | 59 |
-| last180d | 2026-04-17 | 0 | 188 | 35 | 11 | 15 | 199 |
-| 360d | 2025-10-19 | 0 | 251 | 35 | 38 | 16 | 318 |
-| last720d | 2024-10-24 | 0 | 251 | 35 | 38 | 16 | 331 |
+| 30d | 2026-09-15 | 0 | 14 | 9 | 0 | 1 | 11 |
+| last60d | 2026-08-16 | 0 | 19 | 12 | 0 | 2 | 27 |
+| 90d | 2026-07-17 | 0 | 46 | 23 | 0 | 5 | 60 |
+| last180d | 2026-04-18 | 0 | 188 | 38 | 11 | 15 | 200 |
+| 360d | 2025-10-20 | 0 | 251 | 38 | 38 | 16 | 319 |
+| last720d | 2024-10-25 | 0 | 251 | 38 | 38 | 16 | 332 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sentry-for-ai lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:39:02Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:26:44Z._
