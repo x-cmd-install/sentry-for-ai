@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:40:59Z
+  collectedAt: 2026-10-30T06:35:26Z
 timeline:
   created: 2025-11-10
   lastCommit: 2026-10-28
@@ -20,7 +20,7 @@ popularity:
   fork: 37
   release: 0
   contributor: 135
-  pullRequest: 328
+  pullRequest: 329
   issue: 56
 language:
   TypeScript: 122244
@@ -30,15 +30,15 @@ language:
 totalBytes: 184353
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 17
-    openPR: 7
+    openPR: 8
     closedIssue: 0
     openIssue: 1
     commit: 22
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 31
     openPR: 8
@@ -46,47 +46,47 @@ recent:
     openIssue: 1
     commit: 39
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 50
-    openPR: 15
+    openPR: 16
     closedIssue: 0
     openIssue: 5
     commit: 65
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 191
-    openPR: 34
+    openPR: 35
     closedIssue: 11
     openIssue: 15
     commit: 204
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 264
-    openPR: 34
+    openPR: 35
     closedIssue: 38
     openIssue: 16
     commit: 334
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 264
-    openPR: 34
+    openPR: 35
     closedIssue: 38
     openIssue: 16
     commit: 347
 total:
   release: 0
   mergedPR: 264
-  openPR: 34
+  openPR: 35
   closedIssue: 38
   openIssue: 18
   commit: 347
 ---
 path: /home/runner/.x-repo/github.com/getsentry/sentry-for-ai
-collectedAt: 2026-10-29T06:41:03Z
+collectedAt: 2026-10-30T06:35:32Z
 loc:
   TypeScript:
     code: 2567
