@@ -35,18 +35,18 @@ Total: **5,525** lines of code across **78** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 264 · **Open PRs**: 34 · **Closed issues**: 38 · **Open issues**: 18 · **Commits**: 347
+- **Releases**: 0 · **Merged PRs**: 264 · **Open PRs**: 35 · **Closed issues**: 38 · **Open issues**: 18 · **Commits**: 347
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 17 | 7 | 0 | 1 | 22 |
-| last60d | 2026-08-30 | 0 | 31 | 8 | 0 | 1 | 39 |
-| 90d | 2026-07-31 | 0 | 50 | 15 | 0 | 5 | 65 |
-| last180d | 2026-05-02 | 0 | 191 | 34 | 11 | 15 | 204 |
-| 360d | 2025-11-03 | 0 | 264 | 34 | 38 | 16 | 334 |
-| last720d | 2024-11-08 | 0 | 264 | 34 | 38 | 16 | 347 |
+| 30d | 2026-09-30 | 0 | 17 | 8 | 0 | 1 | 22 |
+| last60d | 2026-08-31 | 0 | 31 | 8 | 0 | 1 | 39 |
+| 90d | 2026-08-01 | 0 | 50 | 16 | 0 | 5 | 65 |
+| last180d | 2026-05-03 | 0 | 191 | 35 | 11 | 15 | 204 |
+| 360d | 2025-11-04 | 0 | 264 | 35 | 38 | 16 | 334 |
+| last720d | 2024-11-09 | 0 | 264 | 35 | 38 | 16 | 347 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sentry-for-ai lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:41:07Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:35:45Z._
