@@ -14,7 +14,7 @@ x install sentry-for-ai
 
 ## Code insight
 
-Total: **5,525** lines of code across **78** files in the top 5 languages.
+Total: **5,526** lines of code across **78** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -35,18 +35,18 @@ Total: **5,525** lines of code across **78** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 266 · **Open PRs**: 36 · **Closed issues**: 38 · **Open issues**: 18 · **Commits**: 349
+- **Releases**: 0 · **Merged PRs**: 267 · **Open PRs**: 37 · **Closed issues**: 38 · **Open issues**: 18 · **Commits**: 350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 16 | 7 | 0 | 0 | 20 |
-| last60d | 2026-09-06 | 0 | 31 | 9 | 0 | 1 | 39 |
-| 90d | 2026-08-07 | 0 | 36 | 14 | 0 | 5 | 46 |
-| last180d | 2026-05-09 | 0 | 191 | 36 | 1 | 15 | 206 |
-| 360d | 2025-11-10 | 0 | 266 | 36 | 38 | 16 | 333 |
-| last720d | 2024-11-15 | 0 | 266 | 36 | 38 | 16 | 349 |
+| 30d | 2026-10-07 | 0 | 17 | 6 | 0 | 0 | 21 |
+| last60d | 2026-09-07 | 0 | 32 | 10 | 0 | 1 | 40 |
+| 90d | 2026-08-08 | 0 | 37 | 15 | 0 | 5 | 47 |
+| last180d | 2026-05-10 | 0 | 192 | 37 | 1 | 15 | 207 |
+| 360d | 2025-11-11 | 0 | 267 | 37 | 38 | 16 | 334 |
+| last720d | 2024-11-16 | 0 | 267 | 37 | 38 | 16 | 350 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sentry-for-ai lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:36:37Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:29:13Z._
